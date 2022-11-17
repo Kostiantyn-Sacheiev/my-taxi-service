@@ -4,13 +4,13 @@ Welkome to my [first application](https://taxi-service-sacheiev-heroku.herokuapp
 
 # Description:
 
-This application can be useful if you have a purpose to administration some little (or not very
+This application can be useful if you have a purpose to administrate some little (or not very
 *:)*
 ) service which has drivers who drive cars.
 
-It supports authetication, and CRUD operation. Also it connected to database.
+It supports authetication, and CRUD operation. Also it is connected to database.
 
-Project realized in Java and HTML basics. All SOLID principles are used to create this program. Also was used this technologies: Java 11 JRE and Intellij IDEA as JDK, Apache Tomcat 9 as Webserver, MySQL 8 server as database management system and MySQL Workbench as a shell, Apache Maven 3.8 as development tool package, JSTL 1.2 as tag library, Java Servlet 4 as layer between HTTP protocol and Java program, Dependency Injector as inner program technology and a HTTP + CSS for presentation tier implementation. Project implements three-layer based architecture:
+The project is realized in Java and HTML basics. All SOLID principles are used to create this program. The following technologies were used while creating: Java 11 JRE and Intellij IDEA as JDK, Apache Tomcat 9 as Webserver, MySQL 8 server as database management system and MySQL Workbench as a shell, Apache Maven 3.8 as development tool package, JSTL 1.2 as tag library, Java Servlet 4 as layer between HTTP protocol and Java program, Dependency Injector as an inner program technology and a HTTP + CSS for presentation tier implementation. The project implements a three-layer based architecture:
 + DAO - data access Tier
 + Service - business Tier
 + Controllers - presentation Tier
